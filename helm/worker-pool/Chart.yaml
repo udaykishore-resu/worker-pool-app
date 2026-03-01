@@ -1,0 +1,6 @@
+apiVersion: v2
+name: worker-pool
+description: Production-grade Go Worker Pool
+type: application
+version: 0.1.0
+appVersion: "1.0"
